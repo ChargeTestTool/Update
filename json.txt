@@ -2,7 +2,7 @@
   "update": "Yes",
   "new_version": "3.0.0",
   "apk_file_url": "https://raw.githubusercontent.com/ChargeTestTool/Update/master/app.apk",
-  "update_log": "1，This is a test。\r\n2，Just a test。\r\n3，Test two。\r\n4，Test three。\r\n5，Test four。",
-  "target_size": "2.8M",
+  "update_log": "1，This is a test。\r\n2，Just a test。\r\n3，Test two。\r\n4，Test three。\r\n5，Test four。\r\n5，Test five。\r\n5，Test 666。",
+  "target_size": "5.1M",
   "constraint": false
 }
